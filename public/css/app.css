@@ -1,0 +1,72 @@
+/*** Estilo de la letra ***/
+body
+{
+	font-family:'Questrial';
+	font-size:15px;
+	color:#BCBEC2;
+}
+
+h1, h2, h3, h4, h5, h6
+{
+	font-family:'Questrial';
+}
+
+h2, h3, h4
+{
+	color: #000;
+}
+
+th, td
+{
+	font-family:'Questrial';
+	color: #000;
+}
+
+footer
+{
+	color: #000;
+}
+.fondoGris
+{
+	background-color: #D9D9D9;
+}
+
+.margenBajo
+{
+	margin-bottom: 2em;
+}
+.margenBajo-ch
+{
+	margin-bottom: 1em;
+}
+.margenArriba
+{
+	margin-top: 2em;
+}
+.margenIzquiera
+{
+	margin-left: 2em;
+}
+.margenDerecha
+{
+	margin-right: 2em;
+}
+.margenCompleto
+{
+	margin: 2em;
+}
+.margeCompletoTitulo-1
+{
+	margin: 0.5em;
+}
+
+.tam-boton-menu
+{
+	height: 100px;
+}
+
+.alineadoDerecha
+{
+	float: right;
+}
+
